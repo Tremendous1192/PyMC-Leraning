@@ -4,9 +4,12 @@
 コード説明などは,DeepLやGoogle翻訳で翻訳しました.
 
 1. Introductory
-    1. General Overview
-    1. Simple Linear Regression
-        * 単回帰分析のチュートリアル, 迷ったらここに立ち返る.
+    1. [General Overview](https://www.pymc.io/projects/docs/en/stable/learn/core_notebooks/pymc_overview.html#pymc-overview)
+        * 難しい.
+    1. [Simple Linear Regression](https://www.pymc.io/projects/docs/en/stable/learn/core_notebooks/GLM_linear.html#glm-linear)
+        * 単回帰分析のチュートリアル.```bambi```を用いると```stastmodels```に似た回帰式の定義ができる.
+    1. [General API quickstart](https://www.pymc.io/projects/docs/en/stable/learn/core_notebooks/GLM_linear.html#glm-linear)
+        * ```pm.MutableData```を用いると[交差検証](https://www.pymc.io/projects/examples/en/latest/introductory/api_quickstart.html#predicting-on-hold-out-data)ができる.
 
 
 # 引用
