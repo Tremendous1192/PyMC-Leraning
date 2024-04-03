@@ -34,11 +34,18 @@
             * 予測範囲プロット: ```az.plot_hdi(predictor_scaled, idata.posterior_predictive["obs"])```
 
 
+# 実験
+1. 20240403 3次関数の回帰分析
+    * 3次関数の近似をベイズ推論で行った.
+
 # 引用
 * [PyMC公式サイト](https://www.pymc.io/welcome.html)
 * [データセット](https://github.com/pymc-devs/pymc-examples)
 
-# 参考
+# 参考書籍
+* [Pythonでスラスラわかる　ベイズ推論「超」入門 | 書籍情報 | 株式会社 講談社サイエンティフィク](https://www.kspub.co.jp/book/detail/5337639.html)
+
+# 参考URL
 * [Markdown：数式の場合分け | 寝坊した](https://oversleptabit.com/archives/5391)
 * [はてなブログMarkdownでTex数式を書くコツとチートシート - ari23の研究ノート](https://ari23ant.com/entry/hatenatex-markdown)
 * [Markdownで数式をそろえるメモ（少しだけ） | 寝坊した](https://oversleptabit.com/archives/5155)
