@@ -32,6 +32,8 @@
             * 予測曲線プロット: ```plt.plot( predictor_scaled, mu_pp.mean(("chain", "draw")), label="Mean outcome", color = "C1", alpha = 0.6 )```
             * 観測値プロット: ```plt.scatter(predictor_scaled, idata.observed_data["obs"])```
             * 予測範囲プロット: ```az.plot_hdi(predictor_scaled, idata.posterior_predictive["obs"])```
+    1. [Model Comparison](https://www.pymc.io/projects/docs/en/stable/learn/core_notebooks/model_comparison.html)
+        * 複数のモデルの精度を比較する方法が書かれている.
 
 
 # 実験
