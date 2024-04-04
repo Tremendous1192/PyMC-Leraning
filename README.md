@@ -41,6 +41,10 @@
     * 3次関数の近似をベイズ推論で行った.
 1. 20240404 3次関数の回帰分析(スケーリング無し)
     * 前日の関数近似を変数のスケーリング無しで行った.この程度の複雑さの場合,スケーリングがなくとも十分に予測できるようだ.
+1. 20240404 3次関数の回帰分析(pandas, DataFrameに定数項含)
+    * Pandasデータフレームを用いてモデル作成と予測を実施した.
+    * モデル作成時はPyTensorで書くとエラーが発生しにくい.
+
 
 # 引用
 * [PyMC公式サイト](https://www.pymc.io/welcome.html)
@@ -58,6 +62,6 @@
 * [【TeX】数学の『式』をVSCodeで簡単・キレイに表示する #VSCode - Qiita](https://qiita.com/fluffyOkitsune/items/94e0818e8d8c2acc0db1)
 * [LaTeXコマンド - ギリシャ文字](https://medemanabu.net/latex/greek/)
 * [Qiitaの数式チートシート - Qiita](https://qiita.com/PlanetMeron/items/63ac58898541cbe81ada)
-
+* [PyMC：重回帰を題材にしたPyMCの紹介](https://zenn.dev/yoshida0312/articles/bbd246d3da42b3#%E4%BA%88%E6%B8%AC)
 
 
