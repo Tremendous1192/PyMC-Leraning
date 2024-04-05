@@ -34,6 +34,11 @@
             * 予測範囲プロット: ```az.plot_hdi(predictor_scaled, idata.posterior_predictive["obs"])```
     1. [Model Comparison](https://www.pymc.io/projects/docs/en/stable/learn/core_notebooks/model_comparison.html)
         * 複数のモデルの精度を比較する方法が書かれている.
+    1. [Updating priors](https://www.pymc.io/projects/examples/en/latest/howto/updating_priors.html)
+        * PyMC3で書かれているので省略する
+    1. [Automatic marginalization of discrete variables](https://www.pymc.io/projects/examples/en/latest/howto/marginalizing-models.html)
+        * 開発中の機能を使用するようなので,数式を写経して終わりにする.
+
 
 
 # 実験
@@ -46,6 +51,7 @@
     * メモリの無駄遣いだが,データフレームに定数項を含めた
     * モデル作成時はPyTensorで書くとエラーが発生しにくい.
 1. 20240404 3次関数の回帰分析(pandas, DataFrameに定数項含めず)
+    * **Pandasデータフレームを用いてモデル作成と予測を実施した.**
     * Pnadasデータフレームに定数項を含めずとも予測できるようにした.
 
 
@@ -61,10 +67,11 @@
 * [はてなブログMarkdownでTex数式を書くコツとチートシート - ari23の研究ノート](https://ari23ant.com/entry/hatenatex-markdown)
 * [Markdownで数式をそろえるメモ（少しだけ） | 寝坊した](https://oversleptabit.com/archives/5155)
 * [Markdown：数式の書体 | 寝坊した](https://oversleptabit.com/archives/5397)
+* [PyMC：重回帰を題材にしたPyMCの紹介](https://zenn.dev/yoshida0312/articles/bbd246d3da42b3#%E4%BA%88%E6%B8%AC)
+
+#### Latex向けのページ
 * [LaTeXコマンド - 数学記号（等号、不等号、演算子、集合）](https://medemanabu.net/latex/operators/)
 * [【TeX】数学の『式』をVSCodeで簡単・キレイに表示する #VSCode - Qiita](https://qiita.com/fluffyOkitsune/items/94e0818e8d8c2acc0db1)
 * [LaTeXコマンド - ギリシャ文字](https://medemanabu.net/latex/greek/)
 * [Qiitaの数式チートシート - Qiita](https://qiita.com/PlanetMeron/items/63ac58898541cbe81ada)
-* [PyMC：重回帰を題材にしたPyMCの紹介](https://zenn.dev/yoshida0312/articles/bbd246d3da42b3#%E4%BA%88%E6%B8%AC)
-
 
