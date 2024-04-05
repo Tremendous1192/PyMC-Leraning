@@ -38,6 +38,8 @@
         * PyMC3で書かれているので省略する
     1. [Automatic marginalization of discrete variables](https://www.pymc.io/projects/examples/en/latest/howto/marginalizing-models.html)
         * 開発中の機能を使用するようなので,数式を写経して終わりにする.
+    1. [How to debug a model](https://www.pymc.io/projects/examples/en/latest/howto/howto_debugging.html)
+        * ```Print```や```eval```を用いたデバッグ方法について紹介している.
 
 
 
@@ -63,13 +65,11 @@
 * [Pythonでスラスラわかる　ベイズ推論「超」入門 | 書籍情報 | 株式会社 講談社サイエンティフィク](https://www.kspub.co.jp/book/detail/5337639.html)
 
 # 参考URL
-* [Markdown：数式の場合分け | 寝坊した](https://oversleptabit.com/archives/5391)
-* [はてなブログMarkdownでTex数式を書くコツとチートシート - ari23の研究ノート](https://ari23ant.com/entry/hatenatex-markdown)
 * [Markdownで数式をそろえるメモ（少しだけ） | 寝坊した](https://oversleptabit.com/archives/5155)
 * [Markdown：数式の書体 | 寝坊した](https://oversleptabit.com/archives/5397)
+* [Markdown：数式の場合分け | 寝坊した](https://oversleptabit.com/archives/5391)
 * [PyMC：重回帰を題材にしたPyMCの紹介](https://zenn.dev/yoshida0312/articles/bbd246d3da42b3#%E4%BA%88%E6%B8%AC)
-
-#### Latex向けのページ
+* [はてなブログMarkdownでTex数式を書くコツとチートシート - ari23の研究ノート](https://ari23ant.com/entry/hatenatex-markdown)
 * [LaTeXコマンド - 数学記号（等号、不等号、演算子、集合）](https://medemanabu.net/latex/operators/)
 * [【TeX】数学の『式』をVSCodeで簡単・キレイに表示する #VSCode - Qiita](https://qiita.com/fluffyOkitsune/items/94e0818e8d8c2acc0db1)
 * [LaTeXコマンド - ギリシャ文字](https://medemanabu.net/latex/greek/)
