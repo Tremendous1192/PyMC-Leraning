@@ -40,7 +40,10 @@
         * 開発中の機能を使用するようなので,数式を写経して終わりにする.
     1. [How to debug a model](https://www.pymc.io/projects/examples/en/latest/howto/howto_debugging.html)
         * ```Print```や```eval```を用いたデバッグ方法について紹介している.
-
+    1. [How to wrap a JAX function for use in PyMC](https://www.pymc.io/projects/examples/en/latest/howto/wrapping_jax_function.html)
+        * ```jax```, ```numpyro```のインストールが必要とのことでパス.
+    1. [Splines](https://www.pymc.io/projects/examples/en/latest/howto/spline.html)
+        * 桜の開花時期をお題にして,スプライン曲線の作成方法を紹介しています.
 
 
 # 実験
