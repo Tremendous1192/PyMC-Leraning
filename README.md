@@ -44,6 +44,10 @@
         * ```jax```, ```numpyro```のインストールが必要とのことでパス.
     1. [Splines](https://www.pymc.io/projects/examples/en/latest/howto/spline.html)
         * 桜の開花時期をお題にして,スプライン曲線の作成方法を紹介しています.
+    1. [Bayesian copula estimation: Describing correlated joint distributions](https://www.pymc.io/projects/examples/en/latest/howto/copula-estimation.html)
+        * 複雑な確率分布を簡単な確率分布の組合せで表現しようとする方法を紹介しています
+
+
 
 
 # 実験
