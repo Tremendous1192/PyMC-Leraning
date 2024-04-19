@@ -46,6 +46,14 @@
         * 桜の開花時期をお題にして,スプライン曲線の作成方法を紹介しています.
     1. [Bayesian copula estimation: Describing correlated joint distributions](https://www.pymc.io/projects/examples/en/latest/howto/copula-estimation.html)
         * 複雑な確率分布を簡単な確率分布の組合せで表現しようとする方法を紹介しています
+    1. [Using ModelBuilder class for deploying PyMC models](https://www.pymc.io/projects/examples/en/latest/howto/model_builder.html)
+        * ```pymc-experimental```のインストールが必要とのことでパス.
+    1. [Using a “black box” likelihood function (numpy)](https://www.pymc.io/projects/examples/en/latest/howto/blackbox_external_likelihood_numpy.html)
+        * データセットが不明でエラーが出るのでパス
+    1. [LKJ Cholesky Covariance Priors for Multivariate Normal Models](https://www.pymc.io/projects/examples/en/latest/howto/LKJ.html)
+        * 二変量正規分布の95%区間を推測する方法
+
+
 
 
 
