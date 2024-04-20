@@ -52,7 +52,10 @@
         * データセットが不明でエラーが出るのでパス
     1. [LKJ Cholesky Covariance Priors for Multivariate Normal Models](https://www.pymc.io/projects/examples/en/latest/howto/LKJ.html)
         * 二変量正規分布の95%区間を推測する方法
-
+    1. [Bayesian Missing Data Imputation](https://www.pymc.io/projects/examples/en/latest/howto/Missing_Data_Imputation.html)
+        * ```jax```, ```numpyro```のインストールが必要とのことで写経だけで終わり.
+        * 欠測値の補完?
+1. Generalized Linear Models
 
 
 
