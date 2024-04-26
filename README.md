@@ -58,7 +58,9 @@
 1. Generalized Linear Models
 
 
-
+1. Time Series
+    1. Longitudinal Models of Change
+    1. [Forecasting with Structural AR Timeseries](https://www.pymc.io/projects/examples/en/latest/time_series/Forecasting_with_structural_timeseries.html)
 
 
 # 実験
