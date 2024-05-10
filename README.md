@@ -53,10 +53,10 @@
     1. [LKJ Cholesky Covariance Priors for Multivariate Normal Models](https://www.pymc.io/projects/examples/en/latest/howto/LKJ.html)
         * 二変量正規分布の95%区間を推測する方法
     1. [Bayesian Missing Data Imputation](https://www.pymc.io/projects/examples/en/latest/howto/Missing_Data_Imputation.html)
-        * ```jax```, ```numpyro```のインストールが必要とのことで写経だけで終わり.
+        *  ```jax```, ```numpyro```のインストールが必要とのことで写経だけで終わり.
         * 欠測値の補完?
 1. Generalized Linear Models
-
+    1. [Simpson’s paradox and mixed models](https://www.pymc.io/projects/examples/en/latest/generalized_linear_models/GLM-simpsons-paradox.html)
 
 1. Time Series
     1. Longitudinal Models of Change
