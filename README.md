@@ -57,10 +57,13 @@
         * 欠測値の補完?
 1. Generalized Linear Models
     1. [Simpson’s paradox and mixed models](https://www.pymc.io/projects/examples/en/latest/generalized_linear_models/GLM-simpsons-paradox.html)
+        * [シンプソンのパラドックス](https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%B3%E3%83%97%E3%82%BD%E3%83%B3%E3%81%AE%E3%83%91%E3%83%A9%E3%83%89%E3%83%83%E3%82%AF%E3%82%B9)を例に階層ベイズモデルを紹介している
 
 1. Time Series
     1. Longitudinal Models of Change
     1. [Forecasting with Structural AR Timeseries](https://www.pymc.io/projects/examples/en/latest/time_series/Forecasting_with_structural_timeseries.html)
+    6. [Air passengers - Prophet-like model](https://www.pymc.io/projects/examples/en/latest/time_series/Air_passengers-Prophet_with_Bayesian_workflow.html)
+        * [時系列解析ライブラリProphet](https://facebook.github.io/prophet/)に近い分析を行う
 
 
 # 実験
