@@ -58,6 +58,9 @@
 1. Generalized Linear Models
     1. [Simpson’s paradox and mixed models](https://www.pymc.io/projects/examples/en/latest/generalized_linear_models/GLM-simpsons-paradox.html)
         * [シンプソンのパラドックス](https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%B3%E3%83%97%E3%82%BD%E3%83%B3%E3%81%AE%E3%83%91%E3%83%A9%E3%83%89%E3%83%83%E3%82%AF%E3%82%B9)を例に階層ベイズモデルを紹介している
+    1. [GLM: Robust Linear Regression](https://www.pymc.io/projects/examples/en/latest/generalized_linear_models/GLM-robust.html)
+        * スチューデントのT分布を用いた頑健な線形回帰の紹介
+
 
 1. Time Series
     1. Longitudinal Models of Change
