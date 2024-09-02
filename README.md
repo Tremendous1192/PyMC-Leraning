@@ -63,7 +63,8 @@
     1. [Out-Of-Sample Predictions](https://www.pymc.io/projects/examples/en/latest/generalized_linear_models/GLM-out-of-sample-predictions.html)
         * ベイズ推定ロジスティック回帰の境界線を綺麗に描画するコードが勉強になる。
     1. [Bayesian regression with truncated or censored data](https://www.pymc.io/projects/examples/en/latest/generalized_linear_models/GLM-truncated-censored-regression.html)
-
+    1. [Binomial regression](https://www.pymc.io/projects/examples/en/latest/generalized_linear_models/GLM-binomial-regression.html)
+        * 二項回帰
 1. Time Series
     1. Longitudinal Models of Change
     1. [Forecasting with Structural AR Timeseries](https://www.pymc.io/projects/examples/en/latest/time_series/Forecasting_with_structural_timeseries.html)
