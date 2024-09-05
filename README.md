@@ -69,7 +69,8 @@
         * 負の二項分布
     1. [Hierarchical Binomial Model: Rat Tumor Example](https://www.pymc.io/projects/examples/en/latest/generalized_linear_models/GLM-hierarchical-binomial-model.html)
         * 階層ベイズによる二項分布モデル
-    
+    1. [A Primer on Bayesian Methods for Multilevel Modeling](https://www.pymc.io/projects/examples/en/latest/generalized_linear_models/multilevel_modeling.html)
+        * マルチレベルモデル
 1. Time Series
     1. Longitudinal Models of Change
     1. [Forecasting with Structural AR Timeseries](https://www.pymc.io/projects/examples/en/latest/time_series/Forecasting_with_structural_timeseries.html)
